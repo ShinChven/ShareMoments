@@ -2,6 +2,10 @@
 
 - 欢迎大家使用【魔法分享】！你可以让它帮你获取网页里面的内容、图片等，之后转发到微信/朋友圈。
 
+# 下载
+- [google play store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)
+- [酷安](https://www.coolapk.com/apk/net.atlassc.shinchven.sharemoments)
+
 # 如果更好的让魔法分享来获取你网站上的内容
 [请使用OpenGraph标记你的网页内容](/使用OpenGraph标记你的网页内容.md)
 
