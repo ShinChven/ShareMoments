@@ -1,14 +1,12 @@
 # 魔法分享 - 微信/朋友圈分享助手
-
-- 欢迎大家使用【魔法分享】！你可以让它帮你获取网页里面的内容、图片等，之后转发到微信/朋友圈。
+- 欢迎大家使用【魔法分享】！你可以让它帮你获取网页里面的内容、图片等，之后转发到微信/朋友圈；
 
 # 下载
 - [google play store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)
 - [酷安](https://www.coolapk.com/apk/net.atlassc.shinchven.sharemoments)
 
-# 如果更好的让魔法分享来获取你网站上的内容
-[请使用OpenGraph标记你的网页内容](/使用OpenGraph标记你的网页内容.md)
-
+# 联系我
+- Twitter [@ShinChven](https://twitter.com/ShinChven)可以找到我；
 
 # 更新说明
 ## v1.5.4-beta
@@ -49,8 +47,11 @@
 - [ ] 转发多张图片；
 
 # 帮忙挖坑
-
 遇到bug，或者有想要的feature，欢迎大家提issue，我会不定期填坑。
+
+
+# 如果更好的让魔法分享来获取你网站上的内容
+[请使用OpenGraph标记你的网页内容](/使用OpenGraph标记你的网页内容.md)
 
 # 内容声明
 
