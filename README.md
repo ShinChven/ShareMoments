@@ -1,25 +1,28 @@
 # 魔法分享 - 微信/朋友圈分享助手
-- 欢迎大家使用【魔法分享】！你可以让它帮你获取网页里面的内容、图片等，之后转发到微信/朋友圈；
+- 欢迎大家使用【魔法分享】！
+- 你可以让它帮你获取网页里面的内容、图片等，之后转发到微信/朋友圈；
+- 优先读取OpenGraph，针对YouTube、Spotify等站点做了特殊处理；
 
 # 下载
-- [google play store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)
+- [google play store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)（加入beta，可以抢先试用新功能）
 - [酷安](https://www.coolapk.com/apk/net.atlassc.shinchven.sharemoments)
 
 # 联系我
 - Twitter [@ShinChven](https://twitter.com/ShinChven)可以找到我；
 
 # 更新说明
-## v1.5.4-beta
+## v1.5.6-beta
 1. 查看图片时显示图片尺寸；
 2. 没有图片的分享记录，不再显示图片空间；
 3. 可创建纯图片分享卡片；
+4. 听说你们很喜欢Spotify，所以添加了支持；
 
 ## 之前的更新
 - [增加了User-Agent标签](/使用OpenGraph标记你的网页内容.md)
 - 修复了粘贴板失效的问题；
 - 增加了搜索、刷新和分页加载功能；
 - 已增加opengraph的支持，优先从opengraph获取；
-- 针对YouTube、Twitter的做了特殊处理；
+- 针对YouTube、Twitter、Spotify的链接做特殊处理；
 
 # tips
 - 针对twitter、instagram、YouTube等高质量应用和网站进行了优化；
