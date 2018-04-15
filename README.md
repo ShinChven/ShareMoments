@@ -2,6 +2,7 @@
 - 欢迎大家使用【魔法分享】！
 - 你可以让它帮你获取网页里面的内容、图片等，之后转发到微信/朋友圈；
 - 优先读取OpenGraph，针对YouTube、Spotify等站点做了特殊处理；
+- 还可以图片搜索图片；
 
 # 下载
 - [google play store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)（加入beta，可以抢先试用新功能）
@@ -11,6 +12,9 @@
 - Twitter [@ShinChven](https://twitter.com/ShinChven)可以找到我；
 
 # 更新说明
+## v1.5.7-beta
+1. 增加图片搜索图片功能，这样你们就能获取高清的B站封面了；
+
 ## v1.5.6-beta
 1. 查看图片时显示图片尺寸；
 2. 没有图片的分享记录，不再显示图片空间；
