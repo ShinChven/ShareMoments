@@ -63,7 +63,18 @@
 
 ## Privacy Policy
 
+### camera
+
 - This app uses camera to scan QR CODE.
+
+### storage
+
+- This app uses storage to cache and download images.
+
+### analytics
+
+- This app reports anouymous user action without in-app data.
+
 
 ## OPEN SOURCE LICENSE
 
