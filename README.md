@@ -74,7 +74,7 @@
 ### analytics
 
 - This app reports anouymous user action without in-app data.
-- App 会使用Firebase Analytics 匿名记录用户的行为，以帮助开发者更好的了解用户喜好，但不会上传任何用户访问过的的内容（链接、图片等）。
+- App 会使用Firebase Analytics 匿名记录用户的使用习惯，以帮助开发者更好的了解用户喜好，但不会上传任何用户的个人信息和用户访问过的内容（链接、图片等）。
 
 
 ## OPEN SOURCE LICENSE
