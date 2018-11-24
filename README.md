@@ -11,7 +11,7 @@
 
 ## 1.6.2-beta （Google Play Store beta channel limited time exclusive）
 
-- 转发和下载gif 🍻；
+- 转发和批量下载gif动图支持 🍻；
 - 粘贴板分享；
 - 更多的设置；
 
