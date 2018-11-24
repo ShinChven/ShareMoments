@@ -9,8 +9,9 @@
 - 🔍 如果你喜欢Web中的一张图片，你还可以以图搜索，做逆向图片查找（由Google提供）；
 - 📇 你所分享过的链接会存在你的手机中，你随时可以重新浏览、查找和分享；
 
-## 🔄1.6.2-beta （Google Play Store beta channel）
+## 🔄1.6.2-beta
 
+- Google Play Store beta channel
 - 转发和批量下载gif动图支持 🍻；
 - 粘贴板分享；
 - 更多的设置；
