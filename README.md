@@ -11,7 +11,7 @@
 
 ## 🔄1.6.x
 
-- 媒体文件浏览器：可查看网页上的静态媒体文件地址，可打开浏览或者复制地址；
+- 媒体文件浏览器：可查看Web页面上的静态媒体文件地址，可打开浏览或者复制地址；
 - 本地数据备份与恢复；
 - Chrome Custom Tabs；
 - 新的Feed视图；
@@ -24,7 +24,7 @@
 
 ## 下载
 
-- [google play store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)（加入beta，可以抢先试用新功能）
+- [Google Play Store](https://play.google.com/store/apps/details?id=net.atlassc.shinchven.sharemoments)（推荐，可加入beta频道，抢先试用新功能）
 - [酷安](https://www.coolapk.com/apk/net.atlassc.shinchven.sharemoments)
 
 ## 联系我
