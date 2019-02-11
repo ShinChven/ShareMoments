@@ -1,6 +1,8 @@
 # WebMaster/魔法分享
 
-[英文]()[中文]()
+[English](https://github.com/ShinChven/ShareMoments/blob/master/README.md#a-tool-for-you-to-master-your-web-contents)
+
+[中文](https://github.com/ShinChven/ShareMoments/blob/master/README.md#a-tool-for-you-to-master-your-web-contents)
 
 ## A tool for you to master your web contents
 
