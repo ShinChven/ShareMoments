@@ -1,3 +1,27 @@
+# WebMaster - A tool for you to master your web contents
+
+Most contents we enjoy and share each day on internet and mobile are hosted on the web, and they are made up of texts and media files. I developed this app so that we can dig a little bit deeper into the web html and make the most use of them.
+
+## Share a link like a pro
+
+We share links every day, but raw URLs are sometimes hard for people to understand. So normally we'll have to type in some description so that our receivers can understand the URL at first sight without open it.
+If you know something about the html, then you'll probably know such things like title, description, cover image and etc. are all there for you to reach.
+To help you master the web, WebMaster can parse the title, description and pictures from a web link. Copy them by 1 single touch, you'll get a well composed message to share a link.
+
+## Save your feed across apps
+
+Each app has its own bookmarks, but why can't we just save everything together and search everything we saved in one place?
+Save your URLs in WebMaster and make a feed list for yourself. When you need them again, just go back to WebMaster and find them. All URLs you saved in WebMaster will listed in a good looking feed.
+
+## Grab images from web
+
+- If you are interested in some images from one web, WebMaster can do batch download and batch forwarding for you.
+- If you are interested in some particular images from one web, WebMaster can send it to Google for you to search image by image.
+
+## Share a link via QRCode
+
+Don't bother if you want share a link without adding someone to your contacts. Just show the QR Code.
+
 # 魔法分享 - Web内容分享助手
 
 在我们每天都使用的App和网站中有很多精彩的内容，它们大部分都承载在🌐Web中。很多时候，我们如果只是单单分享一个🔗Web链接，还需要花很长时间向别人说明我们在分享什么内容。于是我制作了这个App，让你能轻松地从Web Link中获取标题、描述和图片，以分享给朋友。
