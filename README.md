@@ -18,6 +18,7 @@ To help you master the web, WebMaster can parse the title, description and pictu
 
 Each app has its own bookmarks, but why can't we just save everything together and search everything we saved in one place?
 Save your URLs in WebMaster and make a feed list for yourself. When you need them again, just go back to WebMaster and find them. All URLs you saved in WebMaster will listed in a good looking feed.
+By using the Chrome CustomTabs, you can open every link within it's own app.
 
 ## Grab images from web
 
