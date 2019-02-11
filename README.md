@@ -20,7 +20,7 @@
 
 - 优先读取Web页面中的OpenGraph标识以获取标题、介绍和封面图片；
 - 再在页面查找图片；
-- 针对Twitter、Instagram、Deviant、BiliBili这些热门的站点，编写了专门的解析方案，让你能更准确地的获取相关内容；
+- 针对Twitter、Instagram、Deviant、Bilibili这些热门的站点，编写了专门的解析方案，让你能更准确地的获取相关内容；
 
 ## 下载
 
