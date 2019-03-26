@@ -4,6 +4,14 @@
 
 [中文](https://github.com/ShinChven/ShareMoments/blob/master/README.md#%E9%AD%94%E6%B3%95%E5%88%86%E4%BA%AB---web%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B)
 
+## New updates
+
+- ver.1.7.0:
+  - Gallery is out, now you can browse all images you downloaded within gallery. All files are in your `picture/ShareMoments/` directory.
+  - If you found some image you downloaded previewsly can not be loaded, please remove them in other file manager due to a file name bug. `?` are not allowed in filename, and I made a mistake that I did not replace them in early versions.
+  - 新增内置图片浏览器，现在大家可以从app里面直接查看下载过的图片。这些图片都存在了`picture/ShareMoments/` 文件夹中。
+  - 如果发现有图片显示不出来，那是由于写了一个bug，没有把`?`号替换掉而直接写到文件名里面。图片文件路径不支持`?`号，因此请从其他的文件管理器中将它们重命名或者删除掉。
+
 ## A tool for you to master your web contents
 
 Most contents we enjoy and share each day on internet and mobile are hosted on the web, and they are made up of texts and media files. I developed this app so that we can dig a little bit deeper into the web html and make the most use of them.
