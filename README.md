@@ -1,4 +1,4 @@
-# WebMaster/魔法分享
+# WebMaster is Magic feed/魔法分享
 
 [English](https://github.com/ShinChven/ShareMoments/blob/master/README.md#a-tool-for-you-to-master-your-web-contents)
 
