@@ -6,11 +6,19 @@
 
 ## New updates
 
-- ver.1.7.0:
+### ver.1.7.0:
+
+- Gallery:
   - Gallery is out, now you can browse all images you downloaded within gallery. All files are in your `picture/ShareMoments/` directory.
   - If you found some image you downloaded previewsly can not be loaded, please remove them in other file manager due to a file name bug. `?` are not allowed in filename, and I made a mistake that I did not replace them in early versions.
   - 新增内置图片浏览器，现在大家可以从app里面直接查看下载过的图片。这些图片都存在了`picture/ShareMoments/` 文件夹中。
   - 如果发现有图片显示不出来，那是由于写了一个bug，没有把`?`号替换掉而直接写到文件名里面。图片文件路径不支持`?`号，因此请从其他的文件管理器中将它们重命名或者删除掉。
+- Tweet Video url:
+  - Now you can see tweet video url in media file list.
+  - In case you don't know how to use it, please share a tweet with video's link to WebMaster, click image in dialog to enter image list, then click button on right top to enter `media file list`. Then video file links will show up.
+  - Please use with care, only download media file when you are allowed by its owner.
+  - 现在可以在媒体文件列表中获取twitter的视频链接，请在下载媒体文件时，不要侵犯他人隐私和版权。
+  - 如果你还不知道怎么使用魔法分享的`媒体文件列表`功能，请先分享一个链接到`魔法分享`，在弹出的对话窗口中点击图片进入图片列表，再点击右上角的按钮进入`媒体文件列表`，在这里你可以浏览该网页上的图片和视频链接。现在兼容情况还不清楚，请不要尝试一些奇奇怪怪的网站。🐶
 
 ## A tool for you to master your web contents
 
