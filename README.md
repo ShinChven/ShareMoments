@@ -1,10 +1,20 @@
-# WebMaster is Magic feed/魔法分享
+# Magic feed/魔法分享
 
 [English](https://github.com/ShinChven/ShareMoments/blob/master/README.md#a-tool-for-you-to-master-your-web-contents)
 
 [中文](https://github.com/ShinChven/ShareMoments/blob/master/README.md#%E9%AD%94%E6%B3%95%E5%88%86%E4%BA%AB---web%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B)
 
 ## New updates
+
+### ver.1.8.0
+
+- UI:
+  - New drawer navigation menu;
+  - New translucent style full screen feed list;
+  - 新增抽屉导航；
+  - 沉浸式的feed列表；
+- Name:
+  - Renamed to Magic Feed;
 
 ### ver.1.7.0:
 
