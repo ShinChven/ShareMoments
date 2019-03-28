@@ -106,10 +106,12 @@ Don't bother if you want share a link without adding someone to your contacts. J
 ### camera
 
 - This app uses camera to scan QR CODE.
+- 此应用需要使用摄像头来扫描二维码。
 
 ### storage
 
-- This app uses storage to cache and download images.
+- This app uses internal storage to cache and download images.
+- 此应用使用设备内部存储空间来下载或缓存图片。
 
 ### analytics
 
