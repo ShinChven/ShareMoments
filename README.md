@@ -84,13 +84,6 @@ Don't bother if you want share a link without adding someone to your contacts. J
 - 🔍 图片逆向搜索：如果你喜欢Web中的一张图片，你还可以以图搜索，做逆向图片查找（由Google提供）；
 - ⭐ 智能链接收藏夹：你所分享过的链接会存在你的手机中，你随时可以重新浏览、查找和分享；
 
-## What‘s new on 1.6.x 🎉
-
-- 媒体文件浏览器：可查看Web页面上的静态媒体文件地址，可打开浏览或者复制地址；
-- 本地数据备份与恢复；
-- Chrome Custom Tabs；
-- 新的Feed视图；
-
 ## Web内容解析规则
 
 - 优先读取Web页面中的OpenGraph标识以获取标题、介绍和封面图片；
