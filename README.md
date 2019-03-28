@@ -20,26 +20,44 @@
   - 现在可以在媒体文件列表中获取twitter的视频链接，请在下载媒体文件时，不要侵犯他人隐私和版权。
   - 如果你还不知道怎么使用魔法分享的`媒体文件列表`功能，请先分享一个链接到`魔法分享`，在弹出的对话窗口中点击图片进入图片列表，再点击右上角的按钮进入`媒体文件列表`，在这里你可以浏览该网页上的图片和视频链接。现在兼容情况还不清楚，请不要尝试一些奇奇怪怪的网站。🐶
 
-## A tool for you to master your web contents
 
-Most contents we enjoy and share each day on internet and mobile are hosted on the web, and they are made up of texts and media files. I developed this app so that we can dig a little bit deeper into the web html and make the most use of them.
+# A tool for you to master your web contents
+
+Most contents we enjoy and share each day on internet and mobile are hosted on the web, and they are made up of text and media files. I developed this app so that we can dig a little bit deeper into the web html and make the most use of them.
+
+## Quick guide: master your web content in 5 steps
+
+1. Share/send url from any app or brower to Magic Feed.
+2. Magic Feed will parse title, description, image url and video url from html for you.
+3. Click image in Magic Feed's dialog to view all media files the app has found for you.
+4. Download or share media files by simple selection.
+5. Revisit your feed in app later.
 
 ## Share a link like a pro
 
 We share links every day, but raw URLs are sometimes hard for people to understand. So normally we'll have to type in some description so that our receivers can understand the URL at first sight without open it.
 If you know something about the html, then you'll probably know such things like title, description, cover image and etc. are all there for you to reach.
-To help you master the web, WebMaster can parse the title, description and pictures from a web link. Copy them by 1 single touch, you'll get a well composed message to share a link.
+To help you master the web,  Magic Feed can parse the title, description and pictures from a web link. And you can get a copy of well composed message to share a link by 1 single tap from the app.
 
 ## Save your feed across apps
 
 Each app has its own bookmarks, but why can't we just save everything together and search everything we saved in one place?
-Save your URLs in WebMaster and make a feed list for yourself. When you need them again, just go back to WebMaster and find them. All URLs you saved in WebMaster will listed in a good looking feed.
-By using the Chrome CustomTabs, you can open every link within it's own app.
+Save your URLs in Magic Feed and make a feed list for yourself. When you need them again, just go back to Magic Feed and find them.
 
 ## Grab images from web
 
-- If you are interested in some images from one web, WebMaster can do batch download and batch forwarding for you.
-- If you are interested in some particular images from one web, WebMaster can send it to Google for you to search image by image.
+- Image download: If you are interested in some images from a web page, Magic Feed can do batch download and batch forward for you.
+- Reverse Image Search: If you are interested in some particular images from one web,  Magic Feed can send it to Google for you to do `search image by image`.
+
+## Download Tweet and Instagram video
+
+- Magic Feed always takes a deep look into html, you can download videos from a tweet or Instagram url.
+- Many other sites are supported by it's default extraction rule.
+
+## Respect content owner's copyright and privacy
+
+✘ You should NOT download or forward any copyrighted image or video from the open internet unless you are allowed by it's owner.
+✘ YouTube is NOT supported.
 
 ## Share a link via QRCode
 
