@@ -125,3 +125,7 @@ Don't bother if you want share a link without adding someone to your contacts. J
 ## OPEN SOURCE LICENSE
 
 [OPEN SOURCE CREDITS](OpenSourceCredits.md)
+
+## 恰饭
+
+https://github.com/ShinChven/donation
