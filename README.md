@@ -4,6 +4,8 @@
 
 [中文](https://github.com/ShinChven/ShareMoments/blob/master/README.md#%E9%AD%94%E6%B3%95%E5%88%86%E4%BA%AB---web%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B)
 
+[Telegram Group](https://t.me/MagicFeedApp)
+
 ## New updates
 
 ### ver.1.8.0
