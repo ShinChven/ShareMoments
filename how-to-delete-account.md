@@ -1,4 +1,4 @@
-# How To Delete Your Account
+# How To Delete Account
 
 Magic Feed requires users to log in with their Google account in order to use the dark theme function. Account information is stored on Firebase.
 
