@@ -8,7 +8,7 @@
 
 # A tool for you to master your web contents
 
-Most contents we enjoy and share each day on internet and mobile are hosted on the web, and they are made up of text and media files. I developed this app so that we can dig a little bit deeper into the web html and make the most use of them.
+The majority of the content we enjoy and share on a daily basis, whether it's on the internet or mobile devices, is hosted on the web. This content typically consists of text and media files. I created this app with the intention of allowing users to delve deeper into the HTML structure of web pages and maximize their utility. By exploring the underlying code, we can gain a better understanding of how these web pages are constructed and leverage their potential to the fullest extent.
 
 ## Quick guide: master your web content in 5 steps
 
@@ -20,14 +20,17 @@ Most contents we enjoy and share each day on internet and mobile are hosted on t
 
 ## Share a link like a pro
 
-We share links every day, but raw URLs are sometimes hard for people to understand. So normally we'll have to type in some description so that our receivers can understand the URL at first sight without open it.
-If you know something about the html, then you'll probably know such things like title, description, cover image and etc. are all there for you to reach.
-To help you master the web,  Magic Feed can parse the title, description and pictures from a web link. And you can get a copy of well composed message to share a link by 1 single tap from the app.
+Every day, we exchange numerous links, but raw URLs can often be difficult to comprehend. Typically, we have to provide a descriptive context for the recipients to understand the URL's content without having to click on it. 
+
+If you're familiar with HTML, you may already know that elements such as title, description, and cover images are readily accessible. 
+
+To empower you in navigating the web, Magic Feed is designed to extract these key details - title, description, and images - from any web link. With just a single tap in the app, you can obtain a well-crafted message to share a link, making it an effortless process to communicate online content effectively.
 
 ## Save your feed across apps
 
-Each app has its own bookmarks, but why can't we just save everything together and search everything we saved in one place?
-Save your URLs in Magic Feed and make a feed list for yourself. When you need them again, just go back to Magic Feed and find them.
+While each app maintains its own set of bookmarks, wouldn't it be more convenient to consolidate all our saved content in one place for easy access and search?
+
+Magic Feed offers just that. It allows you to store your URLs, creating a personalized feed list. When you need to revisit any saved content, simply return to Magic Feed to find it. This way, all your saved URLs are in one place, streamlining your search and retrieval process.
 
 ## Grab images from web
 
